@@ -1,0 +1,11 @@
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/CMakeFiles/MyGameEngine.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/CMakeFiles/edit_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/CMakeFiles/edit_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/CMakeFiles/rebuild_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Window/CMakeFiles/WindowEngine.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Window/CMakeFiles/edit_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Window/CMakeFiles/rebuild_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Color/CMakeFiles/ColorEngine.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Color/CMakeFiles/edit_cache.dir
+/home/amirka/Desktop/projects/MyGameEngine/cmake-build-default/GameEngine/Color/CMakeFiles/rebuild_cache.dir

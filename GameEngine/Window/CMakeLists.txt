@@ -6,4 +6,7 @@ add_library(WindowEngine STATIC ${source})
 
 
 target_include_directories(WindowEngine PUBLIC ${SDL2_INCLUDE_DIRS})
-target_link_libraries(WindowEngine PUBLIC ${SDL2_LIBRARIES})
+target_include_directories(WindowEngine PUBLIC "../Color")
+
+
+target_link_libraries(WindowEngine PUBLIC ${SDL2_LIBRARIES} ColorEngine)
